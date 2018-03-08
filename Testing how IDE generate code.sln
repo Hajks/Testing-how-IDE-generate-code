@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing how IDE generate code", "Testing how IDE generate code\Testing how IDE generate code.csproj", "{4D13EC38-7FA6-423F-A924-32134D1FAC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D13EC38-7FA6-423F-A924-32134D1FAC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D13EC38-7FA6-423F-A924-32134D1FAC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D13EC38-7FA6-423F-A924-32134D1FAC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D13EC38-7FA6-423F-A924-32134D1FAC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2864F20F-1359-4D23-B148-8138E188B1AF}
+	EndGlobalSection
+EndGlobal
